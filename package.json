@@ -29,7 +29,7 @@
     "stylelint": "^13.13.1",
     "stylelint-config-recommended-scss": "^4.3.0",
     "stylelint-scss": "^3.20.1",
-    "tailwindcss": "^2.2.10",
+    "tailwindcss": "^2.2.11",
     "typescript": "4.4.2"
   }
 }
